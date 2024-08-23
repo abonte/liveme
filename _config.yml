@@ -1,8 +1,8 @@
 title: LiveMe
-  greeting: LiveMe Catalog of <YOUR_NAME> 
-  description: Personal data catalogue of <YOUR_NAME>.
-  baseurl: /liveme
-  logo: /img/LiveMe.png
+greeting: LiveMe Catalog of <YOUR_NAME> 
+description: Personal data catalogue of <YOUR_NAME>.
+baseurl: /liveme
+logo: /img/LiveMe.png
 
 # Site theme
 jkan_theme: Default
