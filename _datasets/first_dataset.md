@@ -1,7 +1,7 @@
 ---
 schema: default
 title: First dataset
-organization: Andrea
+organization: AA BB
 notes: This is my first dataset on my new JKAN catalog
 resources:
     - name: Air Monitoring Stations CSV
