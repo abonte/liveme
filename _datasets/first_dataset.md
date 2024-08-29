@@ -8,6 +8,10 @@ resources:
       url: >-
           http://data.phl.opendata.arcgis.com/datasets/1839b35258604422b0b520cbb668df0d_0.csv
       format: csv
+    - name: docs
+      url: >-
+          /documentation/test.html
+      format: html
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Personal data
