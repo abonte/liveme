@@ -45,8 +45,9 @@ Examples:
 
 **Useful references**:
 
-This template is an adaptation of these guidelines on how research datasets are described
-- https://dl.acm.org/journal/imwut/dataset-papers-guidelines
-- https://www.nature.com/sdata/publish/for-authors
+This template is an adaptation of these guidelines on how research datasets are described:
 
-Dataset paper example https://dl.acm.org/doi/pdf/10.1145/3569485
+- [IMWUT Dataset Papers](https://dl.acm.org/journal/imwut/dataset-papers-guidelines)
+- [Scientific Data - Nature](https://www.nature.com/sdata/publish/for-authors)
+
+Dataset paper example: [GLOBEM: Cross-Dataset Generalization of Longitudinal Human Behavior Modeling](https://dl.acm.org/doi/pdf/10.1145/3569485)
