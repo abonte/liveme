@@ -1,6 +1,7 @@
 ---
 layout: project
 title:  "Project title"
+permalink: /shb/
 ---
 
 # Project title
