@@ -1,6 +1,6 @@
 ---
 schema: default
-title: First dataset
+title: Accelerometer
 organization: AA BB
 notes: This is my first dataset on my new JKAN catalog
 resources:
@@ -8,7 +8,11 @@ resources:
       url: >-
           http://data.phl.opendata.arcgis.com/datasets/1839b35258604422b0b520cbb668df0d_0.csv
       format: csv
-    - name: docs
+    - name: codebook
+      url: >-
+          /documentation/test.html
+      format: html
+    - name: project description
       url: >-
           /documentation/test.html
       format: html
