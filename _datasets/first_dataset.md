@@ -10,7 +10,7 @@ resources:
       format: csv
     - name: docs
       url: >-
-          liveme/documentation/test.html
+          /documentation/test.html
       format: html
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
