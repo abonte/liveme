@@ -33,7 +33,7 @@ data_origin: direct observation
 number_participants: 1
 language: unknown
 collection_name: SHB course
-project_url: https://ds.datascientia.eu/community/public/projects/63cd43b5-9e20-4f36-a6b6-275946352522
+project_url: <a href="https://ds.datascientia.eu/community/public/projects/63cd43b5-9e20-4f36-a6b6-275946352522">Datascientia community</a>
 5_stars: 3 # fixed value
 publication_date: 2023-11-30 00:00:00 # date of generation of the file
 identifier: 004.AAAD.AAC.AM # generated based on the defined rules
