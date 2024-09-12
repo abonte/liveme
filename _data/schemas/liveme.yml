@@ -1,6 +1,7 @@
 # To add fields, make a new schema file in this directory
 # and change the schema setting in _config.yml to its name
 dataset_fields:
+  # from live people
   - field_name: title
     label: Title
     datajson: title
@@ -81,6 +82,60 @@ dataset_fields:
   - field_name: longitude_map
     label: longitude
     datajson: longitude_map
+  # from template
+  - field_name: category
+    label: Category
+    form_template: form/category.html
+    display_template: display/category.html
+    datajson: category
+  - field_name: type
+    label: Resource Type
+    datajson: type
+  - field_name: maintainer
+    label: Maintainer
+    datajson: contactPoint.fn
+  - field_name: maintainer_email
+    label: Maintainer Email
+    datajson: contactPoint.hasEmail
+  - field_name: creator
+    label: Creator
+    datajson: creator
+  - field_name: creator_email
+    label: Creator Email
+    datajson: creator_email
+  - field_name: publisher
+    label: Publisher
+    datajson: publisher
+  - field_name: owner
+    label: Owner
+    datajson: owner
+  - field_name: validator
+    label: Validator
+    datajson: validator
+  - field_name: keyword
+    label: Keyword
+    datajson: keyword
+  - field_name: domain
+    label: Domain
+    datajson: domain
+  - field_name: min_longitude
+    label: Min Longitude
+    datajson: min_longitude
+  - field_name: max_longitude
+    label: Max Longitude
+    datajson: max_longitude
+  - field_name: min_latitude
+    label: Min Latitude
+    datajson: min_latitude
+  - field_name: max_latitude
+    label: Max Latitude
+    datajson: max_latitude
+  - field_name: temporal_extent
+    label: Temporal Extent
+    datajson: temporal_extent
+  - field_name: generating_activity
+    label: Generating Activity
+    datajson: generating_activity
 
 
 resource_fields:
