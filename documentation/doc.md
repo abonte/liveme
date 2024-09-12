@@ -6,7 +6,7 @@ permalink: /documentation/shb/
 
 # Project title
 
-The goal of this webpage is to describe the process that generated the dataset that you have uploaded to the LiveMe repository. The dataset pages link to this webpage. It allows a potential consumer of the dataset to understand whether it fits his/her needs and to reproduce the project themself potentially. This document contains why the dataset has been collected and how the data has been processed.
+The goal of this webpage is to describe the process that generated the dataset that you have uploaded to the LiveMe repository. The dataset pages link to this webpage. It allows a potential consumer of the dataset to understand whether it fits his/her needs and to reproduce the project. This document contains why the dataset has been collected and how the data has been processed.
 
 ## Rationale for a new dataset
 This section should provide an overview of the study that generated the data, as well as outlining the potential reuse value of the data.
