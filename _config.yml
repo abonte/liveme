@@ -12,7 +12,7 @@ github_client_id: a352ffa12a71867cb4e3
 gatekeeper_host: http://localhost:9999
 
 # Dataset schema
-schema: default
+schema: liveme
 
 # Nav bar
 navigation:
@@ -22,8 +22,8 @@ navigation:
     url: /datasets/
   - title: Organizations
     url: /organizations/
-  - title: Services
-    url: /#services
+  #- title: Services
+  #  url: /#services
   - title: FAQ
     url: /faq/
 
